@@ -44,7 +44,3 @@ The app follows the MVVM (Model-View-ViewModel) architecture pattern:
 - **Models**: Data models and entities
 - **Services**: API clients and business services
 - **Utils**: Helper functions and extensions
-
-## License
-
-MIT License 
